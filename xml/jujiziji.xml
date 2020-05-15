@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ADI StaffID="48" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Objects>
+    <Object ElementType="Program" ID="171727" Action="REGIST" Code="edf363da069d454daea14db0eed54797">
+      <Property Name="Name">探险活宝第三季第22集</Property>
+      <Property Name="OrderNumber"></Property>
+      <Property Name="OriginalName"></Property>
+      <Property Name="SortName"></Property>
+      <Property Name="SearchName">txhbdej</Property>
+      <Property Name="ActorDisplay">杰里米·沙达,约翰·迪·玛吉欧</Property>
+      <Property Name="WriterDisplay">LarryLeichliter</Property>
+      <Property Name="OriginalCountry">美国</Property>
+      <Property Name="Language">国语</Property>
+      <Property Name="ReleaseYear">2011</Property>
+      <Property Name="OrgAirDate">20101011</Property>
+      <Property Name="LicensingWindowStart">20190710101020</Property>
+      <Property Name="LicensingWindowEnd">20290710101020</Property>
+      <Property Name="DisplayAsNew"></Property>
+      <Property Name="DisplayAsLastChance"></Property>
+      <Property Name="Macrovision">0</Property>
+      <Property Name="Description">探险活宝全集故事讲述的是两个好朋友—人类小男孩Finn（台译阿宝、直译芬）和拥有魔力的狗Jake（台译老皮、直译杰克）在LandofOoo（台译哇赛秘境、直译噢噢噢大陆、）的冒险旅程。</Property>
+      <Property Name="PriceTaxIn">0</Property>
+      <Property Name="Status">1</Property>
+      <Property Name="SourceType">1</Property>
+      <Property Name="SeriesFlag">1</Property>
+      <Property Name="Kpeople"></Property>
+      <Property Name="Director">LarryLeichliter</Property>
+      <Property Name="ScriptWriter"></Property>
+      <Property Name="Compere"></Property>
+      <Property Name="Guest"></Property>
+      <Property Name="Reporter"></Property>
+      <Property Name="OPIncharge"></Property>
+      <Property Name="CpId">138</Property>
+      <Property Name="CpName">行云媒资</Property>
+      <Property Name="KindDisplay">儿童</Property>
+      <Property Name="Type">电视剧</Property>
+      <Property Name="Tags">儿童</Property>
+    </Object>
+    <Object ElementType="Movie" ID="1770131" Action="REGIST" Code="201705122019070258312AB168E69B46">
+      <Property Name="Type">1</Property>
+      <Property Name="FileURL">http://file.pukkasoft.com.cn/targetPath/20190702/7a01b0e37a9f4cf8a16508d83564c303.ts</Property>
+      <Property Name="SourceDRMType"></Property>
+      <Property Name="DestDRMType"></Property>
+      <Property Name="AudioType"></Property>
+      <Property Name="ScreenFormat"></Property>
+      <Property Name="ClosedCaptioning"></Property>
+    </Object>
+  </Objects>
+  <Mappings>
+    <Mapping ID="00800000003020190710101020444136" Action="REGIST" ParentType="Program" ElementType="Movie" ParentID="171727" ElementID="1770131" ParentCode="edf363da069d454daea14db0eed54797" ElementCode="201705122019070258312AB168E69B46">
+      <Property Name="Sequence">0</Property>
+    </Mapping>
+    <Mapping ID="00800000003020190710101020487137" Action="REGIST" ParentType="Series" ElementType="Program" ParentID="6660" ElementID="171727" ParentCode="aff899e9238e49f38ec520c6495e6450" ElementCode="edf363da069d454daea14db0eed54797">
+      <Property Name="Sequence">22</Property>
+    </Mapping>
+  </Mappings>
+</ADI>

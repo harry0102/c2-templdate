@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ADI StaffID="48" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Objects>
+    <Object ElementType="Program" ID="172865" Action="REGIST" Code="325ce62970024984b139cb7256be67be">
+      <Property Name="Name">灭顶之灾下国语版</Property>
+      <Property Name="OrderNumber"></Property>
+      <Property Name="OriginalName"></Property>
+      <Property Name="SortName"></Property>
+      <Property Name="SearchName">mdzzx</Property>
+      <Property Name="ActorDisplay">兰迪·奎德  吉娜·葛森</Property>
+      <Property Name="WriterDisplay">迪克·劳理</Property>
+      <Property Name="OriginalCountry">澳大利亚</Property>
+      <Property Name="Language">国语</Property>
+      <Property Name="ReleaseYear">2005</Property>
+      <Property Name="OrgAirDate">20051106</Property>
+      <Property Name="LicensingWindowStart">20190710111406</Property>
+      <Property Name="LicensingWindowEnd">20290710111406</Property>
+      <Property Name="DisplayAsNew"></Property>
+      <Property Name="DisplayAsLastChance"></Property>
+      <Property Name="Macrovision">0</Property>
+      <Property Name="Description">一场致命的7级风暴严重破坏了世界。与此同时，绑架者威胁要使事情变得更糟。</Property>
+      <Property Name="PriceTaxIn">0</Property>
+      <Property Name="Status">1</Property>
+      <Property Name="SourceType">1</Property>
+      <Property Name="SeriesFlag">0</Property>
+      <Property Name="Kpeople"></Property>
+      <Property Name="Director">迪克·劳理</Property>
+      <Property Name="ScriptWriter"></Property>
+      <Property Name="Compere"></Property>
+      <Property Name="Guest"></Property>
+      <Property Name="Reporter"></Property>
+      <Property Name="OPIncharge"></Property>
+      <Property Name="CpId">138</Property>
+      <Property Name="CpName">行云媒资</Property>
+      <Property Name="KindDisplay">剧情,灾难</Property>
+      <Property Name="Type">电影</Property>
+      <Property Name="Tags">剧情,灾难</Property>
+    </Object>
+    <Object ElementType="Movie" ID="1777515" Action="REGIST" Code="20170512201907067B94E0FA7663BC80">
+      <Property Name="Type">1</Property>
+      <Property Name="FileURL">http://file.pukkasoft.com.cn/targetPath/20190706/75cca11691124eb8906c43f0cf65ae4c.ts</Property>
+      <Property Name="SourceDRMType"></Property>
+      <Property Name="DestDRMType"></Property>
+      <Property Name="AudioType"></Property>
+      <Property Name="ScreenFormat"></Property>
+      <Property Name="ClosedCaptioning"></Property>
+    </Object>
+    <Object ElementType="Picture" ID="13793" Action="REGIST" Code="e3559eb5c4e84210abed7f23ca78f56c">
+      <Property Name="FileURL">http://u-storage.oss.seeingtv.com/138_b3ea07229f034bab92afb36551d51f28.jpg</Property>
+      <Property Name="Description">海报</Property>
+    </Object>
+  </Objects>
+  <Mappings>
+    <Mapping ID="00800000003020190710111406809693" Action="REGIST" ParentType="Program" ElementType="Movie" ParentID="172865" ElementID="1777515" ParentCode="325ce62970024984b139cb7256be67be" ElementCode="20170512201907067B94E0FA7663BC80">
+      <Property Name="Sequence">0</Property>
+    </Mapping>
+    <Mapping ID="00800000003020190710111406864694" Action="REGIST" ParentType="Picture" ElementType="Program" ParentID="13793" ElementID="172865" ParentCode="e3559eb5c4e84210abed7f23ca78f56c" ElementCode="325ce62970024984b139cb7256be67be">
+      <Property Name="Type">1</Property>
+      <Property Name="Sequence">90</Property>
+    </Mapping>
+  </Mappings>
+</ADI>

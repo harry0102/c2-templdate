@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ADI StaffID="48" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Objects>
+    <Object ElementType="Series" ID="6660" Action="REGIST" Code="aff899e9238e49f38ec520c6495e6450">
+      <Property Name="Name">探险活宝第三季</Property>
+      <Property Name="OrderNumber"></Property>
+      <Property Name="OriginalName"></Property>
+      <Property Name="SortName"></Property>
+      <Property Name="SearchName">txhbdsj</Property>
+      <Property Name="OrgAirDate">20110711</Property>
+      <Property Name="LicensingWindowStart">20170101000000</Property>
+      <Property Name="LicensingWindowEnd">21170101000000</Property>
+      <Property Name="DisplayAsNew"></Property>
+      <Property Name="DisplayAsLastChance"></Property>
+      <Property Name="Macrovision">0</Property>
+      <Property Name="Type">少儿</Property>
+      <Property Name="Keywords"></Property>
+      <Property Name="Tags">冒险,儿童,动画</Property>
+      <Property Name="Price">0</Property>
+      <Property Name="VolumnCount">22</Property>
+      <Property Name="Status">1</Property>
+      <Property Name="Description">探险活宝全集故事讲述的是两个好朋友—人类小男孩Finn（台译阿宝、直译芬）和拥有魔力的狗Jake（台译老皮、直译杰克）在LandofOoo（台译哇赛秘境、直译噢噢噢大陆、）的冒险旅程。</Property>
+      <Property Name="Kpeople">杰里米·沙达,约翰·迪·玛吉欧</Property>
+      <Property Name="Director">LarryLeichliter</Property>
+      <Property Name="ScriptWriter"></Property>
+      <Property Name="Compere"></Property>
+      <Property Name="Guest"></Property>
+      <Property Name="Reporter"></Property>
+      <Property Name="OPIncharge"></Property>
+      <Property Name="SeriesType">1</Property>
+      <Property Name="OriginalCountry">美国</Property>
+      <Property Name="Language">国语</Property>
+      <Property Name="ReleaseYear">2011</Property>
+      <Property Name="CpId">138</Property>
+      <Property Name="CpName">行云媒资</Property>
+      <Property Name="KindDisplay">冒险,儿童,动画</Property>
+    </Object>
+    <Object ElementType="Picture" ID="13631" Action="REGIST" Code="ec43663a4e944043b0ff080ae82a65a2">
+      <Property Name="FileURL">http://u-storage.oss.seeingtv.com/138_7a0baae5fdb24178b38b88cc3b11ae6b.jpg</Property>
+      <Property Name="Description">海报</Property>
+    </Object>
+  </Objects>
+  <Mappings>
+    <Mapping ID="00800000003020190710101020183133" Action="REGIST" ParentType="Picture" ElementType="Series" ParentID="13631" ElementID="6660" ParentCode="ec43663a4e944043b0ff080ae82a65a2" ElementCode="aff899e9238e49f38ec520c6495e6450">
+      <Property Name="Type">1</Property>
+      <Property Name="Sequence">90</Property>
+    </Mapping>
+  </Mappings>
+</ADI>

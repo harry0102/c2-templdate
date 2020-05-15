@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ADI StaffID="48" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Objects>
+		{{range $y, $Object := .Objects}}
+		<Object ElementType="{{$Object.ElementType}}" ID="{{$Object.ID}}" Action="{{$Object.Action}}" Code="{{$Object.Code}}">
+			{{ if (eq $Object.ElementType "Series") }}
+				{{ $Object.GetObjectTemplate $Object.ElementType $Object.Series }}
+			{{end}}
+			{{ if (eq $Object.ElementType "Picture") }}
+				{{ $Object.GetObjectTemplate $Object.ElementType $Object.Picture }}
+			{{end}}
+		</Object>
+		{{end}}
+	</Objects>
+	<Mappings>
+		{{range $y, $Mapping := .Mappings}}
+		{{ $Mapping.GetMappingTemplate }}
+		{{end}}
+  </Mappings>
+</ADI>
